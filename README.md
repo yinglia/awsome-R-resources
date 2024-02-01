@@ -1,7 +1,7 @@
 # Awesome R Resources
 
-- [Awesome R](#Awesome R Resources-)
-    - [Presentation Slides](# Presentation Slides)
+- [Awesome R](#Awesome-R-Resources-)
+    - [Presentation Slides](#Presentation-Slides)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
